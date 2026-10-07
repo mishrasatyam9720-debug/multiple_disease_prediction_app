@@ -1,4 +1,4 @@
-# Multiple Disease Prediction App
+  # Multiple Disease Prediction App
 
 A Machine Learning-based **Multiple Disease Prediction System** built using **Streamlit**.  
 The application predicts the possibility of **Diabetes, Heart Disease, and Parkinson's Disease** using trained machine learning models.
